@@ -1,1 +1,3 @@
-# python-script
+# 项目:py_script
+# 所有者:苏伟涛
+# 目的:使用py脚本解决一些日常问题
